@@ -1,0 +1,39 @@
+
+Information of tourist::
+Information of tourist::
+Tourist Name :ravi 	 age :17 	 gender :male 
+
+Tourist Name :ram 	 age :18 	 gender :male 
+
+The choice is India
+The amount to be payed after applying the discount is 318750.000000
+Total Amount to be paid(including the amount of guide) 326250.000000
+The number of days you want guide is :: 15
+Payment for guide is :: 7500
+-------------------------------------------
+Thanks for visiting!!!!!!
+
+Information of tourist::
+Tourist Name :rama 	 age :12 	 gender :male 
+
+The choice is International
+The amount to be payed after applying the discount is 1350000.000000
+Total Amount to be paid(including the amount of guide) 1386000.000000
+The number of days you want guide is :: 18
+Payment for guide is :: 36000
+-------------------------------------------
+Thanks for visiting!!!!!!
+
+Information of tourist::
+Information of tourist::
+Tourist Name :ram 	 age :19 	 gender :male 
+
+Tourist Name :ravi 	 age :20 	 gender :male 
+
+The choice is International
+The amount to be payed after applying the discount is 900000.000000
+Total Amount to be paid(including the amount of guide) 924000.000000
+The number of days you want guide is :: 12
+Payment for guide is :: 24000
+-------------------------------------------
+Thanks for visiting!!!!!!
