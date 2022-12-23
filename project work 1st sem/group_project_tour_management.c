@@ -1,9 +1,7 @@
-//PRESENTED BY GROUP 2
-                                        
+           
                                      // TOUR MANAGEMENT SYSTEM   
                      
-                            //UNDER THE GUIDANCE OF Mr.GAURAV MALODE SIR 
-   
+                         
 #include <stdio.h>
 #include <stdlib.h>
 int guide(int);
